@@ -1,0 +1,8 @@
+{
+  "name": "multi-ai-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.47.1"
+  }
+}
